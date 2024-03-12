@@ -431,5 +431,10 @@ Malicious URL
 - 66[.]94[.]127[.]183
 - 74[.]207[.]252[.]125
 - 38[.]54[.]115[.]66
+  
+* 12/03/2024
+- [ID441876][CyberSOC]
+- 185.151.146[.]112 (FatDisco Ltd ) (United Kingdom of Great Britain and Northern Ireland)
+- 167.179.108[.]182 (Vultr Holdings LLC) (Japan)
 
  
