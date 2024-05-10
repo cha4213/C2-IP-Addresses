@@ -550,3 +550,9 @@ Malicious URL
  -  195.26.87[.]209
  -  94.100.11[.]45
  -  80.67.224[.]26
+   
+* 10/05/2024
+     - [TRU 142121][SOC Alert]
+     - 172.67.129[.]176
+     - 104.21.1[.]180
+     - https://adobe-us-updatefiles[.]digital/index.php
