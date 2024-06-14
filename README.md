@@ -711,6 +711,8 @@ Malicious URL
 * 14/06/2024
 - SOC Alert [TRUE 145569 P3 Medium] "Suspect Domain Activity"
 - 58[.]158[.]177[.]102
+
+- [ID479403][CyberSOC]
 - 108.61.163.91
 - 135.125.250.253
 - 45.116.13.241
