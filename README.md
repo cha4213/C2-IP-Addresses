@@ -727,3 +727,7 @@ Malicious URL
 - 103.113.11.78
 - 206.119.75.80
 - 167.179.110.17
+  
+* 20/06/2024
+- SOC Alert [TRU 146536 P3 Medium] "EDR Alert - Critical/High/Medium"
+- 
