@@ -732,3 +732,7 @@ Malicious URL
 - SOC Alert [TRU 146536 P3 Medium] "EDR Alert - Critical/High/Medium"
 - 120.244.236.70
 - 101.90.13.141 
+
+* 21/06/2024
+- [ID482144][CyberSOC]
+- 188.245.50.32
