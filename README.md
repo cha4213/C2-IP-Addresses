@@ -960,3 +960,4 @@ Malicious URL
 * 11/07/2024
 - SOC Alert [TRUE 148391 P4 Low]
 - 185[.]130[.]214[.]98
+- Upload[.]dwi22g[.]com
