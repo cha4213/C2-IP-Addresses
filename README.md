@@ -8928,6 +8928,26 @@ aft.fraudfigappzone.com
 99.79.101.225
 99.81.122.12
 
+* 02/08/2024
+- [ID500679] [CyberSOC
+- choosetotruck.com
+- electricnico.com
+- jennifergalvin.com
+- kineticwing.com
+- proexbit.com
+- ratingsentry.com
+- ripnoticebook.com
+- scorelineupdate.com
+- suezey.com
+- www.nss.com.tw
+- w2.chatgptsfit.com
+- 45.85.76.10
+- 45.85.76.18
+- 103.96.131.84
+- 58.64.204.145
+- 103.56.114.69
+- 45.85.76.18 
+
 
 
 
