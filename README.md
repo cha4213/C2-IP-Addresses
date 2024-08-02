@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/63ac14c6-dca9-48ad-bd06-43f2701436cc)![image](https://github.com/user-attachments/assets/39d89493-b5ec-4845-b314-d17c6a43b622)
 Public IP Address  ( No Block )
 
 Client DTAC Call Center SNK
